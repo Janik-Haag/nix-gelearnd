@@ -105,4 +105,4 @@ Setup the system up for Software Defined Radio
 ## Thanks for listening
 
 https://github.com/Janik-Haag/nix-gelearnd
-- qr code
+![[qr_code.png]]
